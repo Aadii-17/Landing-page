@@ -21,4 +21,4 @@ This project is a static webpage that displays a tech news article about Google'
 
 1. **Clone the Repository:** 
    ```bash
-   git clone https://github.com/yourusername/tech-news-article-template.git
+   git clone https://github.com/aadii-17/Landing-page.git
